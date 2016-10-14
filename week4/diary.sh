@@ -8,3 +8,5 @@ echo $( date ) $text >> diary.txt
 
 #alternative syntax
 # echo 'date' $text >> diary.txt
+
+#This is a new line
